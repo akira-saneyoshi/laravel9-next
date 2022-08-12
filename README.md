@@ -1,1 +1,2 @@
-# laravel9-next
+# laravel-next-js
+
